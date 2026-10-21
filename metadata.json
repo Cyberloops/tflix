@@ -1,0 +1,8 @@
+{
+  "name": "Nila Live TV - Premium OTT Streaming",
+  "description": "Premium OTT Live TV streaming app featuring Tamil & Malayalam entertainment, movies, and comedy channels with HLS.js streaming.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
